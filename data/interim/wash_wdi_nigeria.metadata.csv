@@ -1,0 +1,6 @@
+indicator_code,indicator_name,country
+SH.H2O.BASW.ZS,People using at least basic drinking water services (% of population),Nigeria
+SH.H2O.SMDW.ZS,People using safely managed drinking water services (% of population),Nigeria
+SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),Nigeria
+SH.STA.SMSS.ZS,People using safely managed sanitation services (% of population),Nigeria
+SH.STA.ODFC.ZS,People practicing open defecation (% of population),Nigeria
